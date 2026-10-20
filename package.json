@@ -1,0 +1,24 @@
+{
+  "name": "free-video-editor",
+  "version": "0.1.0",
+  "description": "Free, open-source desktop video editor (Electron + React + FFmpeg)",
+  "main": "electron/main.cjs",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "vite build",
+    "start": "vite build && electron .",
+    "test:export": "node scripts/test-export.cjs"
+  },
+  "dependencies": {
+    "ffmpeg-static": "^5.2.0",
+    "ffprobe-static": "^3.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "electron": "^33.2.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^6.0.7"
+  }
+}
