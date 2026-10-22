@@ -5,13 +5,16 @@
 <h1 align="center">CapRocket</h1>
 
 <p align="center">
+<a href="https://www.producthunt.com/products/caprocket?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-caprocket" target="_blank" rel="noopener noreferrer"><img alt="CapRocket - Free, open-source video editor with offline AI captions | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1287410&amp;theme=light&amp;t=1792677925392"></a>
+
+<p align="center">
   <b>The free, open-source desktop video editor in the style of CapCut.</b><br />
   Timeline editing · offline auto captions · GPU effects and transitions · text to speech · music and stock libraries · an AI assistant that edits for you.<br />
   <b>No account. No subscription. No watermark.</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/medhachim/CapRocket/releases/download/v0.1.0/CapRocket-Setup-0.1.0.exe"><img alt="Download CapRocket-Setup-0.1.0.exe" src="https://img.shields.io/badge/Download-CapRocket--Setup--0.1.0.exe-ff3d8b?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="https://caprocket.site/"><img alt="Download CapRocket-Setup-0.1.0.exe" src="https://img.shields.io/badge/Download-CapRocket--Setup--0.1.0.exe-ff3d8b?style=for-the-badge&logo=windows&logoColor=white" /></a>
   &nbsp;
   <a href="https://ko-fi.com/J3F024TQY1"><img alt="Support me on Ko-fi" src="https://img.shields.io/badge/Support%20me%20on%20Ko--fi-ffaa00?style=for-the-badge&logo=kofi&logoColor=white" /></a><br />
   <sub>Windows 10 / 11 · 64-bit · about 120 MB · <a href="https://github.com/medhachim/CapRocket/releases">all versions</a></sub>
@@ -74,7 +77,7 @@ online libraries are only contacted when you search them.
 
 ## Download and install
 
-**[⬇ Download CapRocket-Setup-0.1.0.exe](https://github.com/medhachim/CapRocket/releases/download/v0.1.0/CapRocket-Setup-0.1.0.exe)** (Windows 10 / 11, 64-bit, about 120 MB)
+**[⬇ Download CapRocket-Setup-0.1.0.exe](https://caprocket.site/)** (Windows 10 / 11, 64-bit, about 120 MB)
 
 Older and newer versions are on the [Releases page](https://github.com/medhachim/CapRocket/releases).
 
