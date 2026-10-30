@@ -6,7 +6,9 @@
 
 <p align="center">
 <a href="https://www.producthunt.com/products/caprocket?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-caprocket" target="_blank" rel="noopener noreferrer"><img alt="CapRocket - Free, open-source video editor with offline AI captions | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1287410&amp;theme=light&amp;t=1792677925392"></a>
-
+</p>
+<iframe src="https://github.com/sponsors/medhachim/card" title="Sponsor medhachim" height="225" width="600" style="border: 0;"></iframe>
+</p>
 <p align="center">
   <b>The free, open-source desktop video editor in the style of CapCut.</b><br />
   Timeline editing · offline auto captions · GPU effects and transitions · text to speech · music and stock libraries · an AI assistant that edits for you.<br />
